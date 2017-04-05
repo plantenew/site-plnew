@@ -1,0 +1,14 @@
+{
+    "name": "hnk/site",
+    "require": {
+        "silex/silex": "2.0.4",
+        "twig/twig": "2.3.0",
+        "twbs/bootstrap": "3.3.7"
+    },
+    "authors": [
+        {
+            "name": "hnkalbuquerque",
+            "email": "henrique.albuquerque@fatec.sp.gov.br"
+        }
+    ]
+}
